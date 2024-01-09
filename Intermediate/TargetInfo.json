@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AutoConstructAlpha",
+			"Path": "..\\Source\\AutoConstructAlpha.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AutoConstructAlphaEditor",
+			"Path": "..\\Source\\AutoConstructAlphaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

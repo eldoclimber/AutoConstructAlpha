@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\AutoConstructAlpha\\Source\\AutoConstructAlpha\\AutoConstructAlpha.Build.cs",
+		"E:\\Unreal Projects\\AutoConstructAlpha\\Source\\AutoConstructAlpha.Target.cs",
+		"E:\\Unreal Projects\\AutoConstructAlpha\\Source\\AutoConstructAlphaEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
